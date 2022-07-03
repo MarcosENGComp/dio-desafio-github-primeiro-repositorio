@@ -1,0 +1,11 @@
+Links interessantes para estudo
+
+Download do git - https://git-scm.com/downloads
+Site github - https://github.com/
+Plataforma Dio - https://www.dio.me/
+
+GIT - Sistema de versionamento de código, que permite varias pessoas trabalharem no mesmo repositório ao mesmo tempo e evite conflito entre as alterações.
+
+GIT HUB - Plataforma onde será hospedado os códigos que permite as outras pessoas baixarem e trabalharem no mesmo código
+
+Platatorma DIO - Site especializado em cursos técnologicos, de forma gratuita trazendo conhecimento às pessoas
