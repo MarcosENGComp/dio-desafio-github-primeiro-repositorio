@@ -17,5 +17,5 @@ Git push - Joga o arquuivo para o repositório online
 
 Git pull - Puxa o arquivo do repositório online para o armazenamento local
 
-SHA1 - Algoritmo de encriptação
+SHA1 - Algoritmo de encriptação.
 
