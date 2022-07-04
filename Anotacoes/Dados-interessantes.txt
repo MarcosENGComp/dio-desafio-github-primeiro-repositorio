@@ -5,7 +5,17 @@ Site github - https://github.com/
 Plataforma Dio - https://www.dio.me/
 
 GIT - Sistema de versionamento de código, que permite varias pessoas trabalharem no mesmo repositório ao mesmo tempo e evite conflito entre as alterações.
+É um sistema de distribuido seguro
 
 GIT HUB - Plataforma onde será hospedado os códigos que permite as outras pessoas baixarem e trabalharem no mesmo código
 
-Platatorma DIO - Site especializado em cursos técnologicos, de forma gratuita trazendo conhecimento às pessoas
+Termo "Tracked" - quando o git já tem conhecimento do arquivo
+
+Termo "Untracked" - quando o git ainda não conhece o arquivo
+
+Git push - Joga o arquuivo para o repositório online
+
+Git pull - Puxa o arquivo do repositório online para o armazenamento local
+
+SHA1 - Algoritmo de encriptação
+
